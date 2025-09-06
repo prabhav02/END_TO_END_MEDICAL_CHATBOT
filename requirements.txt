@@ -8,7 +8,6 @@ langchain-openai
 langchain-community
 langchain-groq
 langchain-huggingface
-pinecone-client
-
+pinecone
 
 - e.
